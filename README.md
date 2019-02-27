@@ -1,4 +1,4 @@
-# COMP3702/7702 Assignment 2 Supporting code
+# Supporting code
 
 Here is some code to help you get across the line
 
